@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/list_background_pressed">
+
+    <TextView
+        android:id="@+id/tv_emailLogin"
+        android:textColor="#fff"
+        android:paddingTop="30dp"
+        android:paddingBottom="5dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/campo_email"/>
+
+    <EditText
+        android:id="@+id/ed_emailLogin"
+        android:layout_gravity="center_horizontal"
+        android:paddingTop="5dp"
+        android:paddingBottom="5dp"
+        android:paddingLeft="10dp"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:background="@drawable/rounded_edit_text"
+        android:inputType="textEmailAddress"
+       />
+
+    <TextView
+        android:id="@+id/tv_senhaLogin"
+        android:textColor="#fff"
+        android:paddingTop="30dp"
+        android:paddingBottom="5dp"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center_vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/campo_senha"/>
+
+    <EditText
+        android:id="@+id/ed_senhaLogin"
+        android:layout_gravity="center_horizontal"
+        android:paddingTop="5dp"
+        android:paddingBottom="5dp"
+        android:paddingLeft="10dp"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:background="@drawable/rounded_edit_text"
+        android:inputType="textPassword"
+        />
+
+    <TextView
+        android:id="@+id/space"
+        android:paddingTop="15dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <Button
+        android:id="@+id/btn_login"
+        android:background="@drawable/rounded_button"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:textColor="#fff"
+        android:text="@string/btn_login"
+        android:onClick="loginOnClick"/>
+
+    <TextView
+        android:id="@+id/texto_cadatre_se"
+        android:textColor="#fff"
+        android:paddingTop="15dp"
+        android:paddingBottom="5dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/texto_cadastre_se"/>
+
+</LinearLayout>

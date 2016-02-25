@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\testeSVN\eiGoverno\Implementação\eiGoverno\app\build\intermediates\pre-dexed\debug\classes-705d6a7521cb165b8758adb68b55935298516e81.jar"
+        jar="C:\testeSVN\eiGoverno\Implementação\eiGoverno\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.1.71\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="0f6d5c1ef2e982c3b7858408e3df389cf5d202da"/>
+    <item
+        dex="C:\testeSVN\eiGoverno\Implementação\eiGoverno\app\build\intermediates\pre-dexed\debug\ormlite-core-4.48-83bb4eccafaa32c4cbcff2b9e35daa08b0ceac23.jar"
+        jar="C:\Users\Argonauta\.gradle\caches\modules-2\files-2.1\com.j256.ormlite\ormlite-core\4.48\e579bd2905d0399af5029aaaf9817d5fa0ca88a5\ormlite-core-4.48.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="e579bd2905d0399af5029aaaf9817d5fa0ca88a5"/>
+    <item
+        dex="C:\testeSVN\eiGoverno\Implementação\eiGoverno\app\build\intermediates\pre-dexed\debug\ormlite-android-4.48-d430d8cd9066d77d48e74bf86d6f7b7d3d7d2b28.jar"
+        jar="C:\Users\Argonauta\.gradle\caches\modules-2\files-2.1\com.j256.ormlite\ormlite-android\4.48\afa06f539a4026c10b247386312aa67404b80a16\ormlite-android-4.48.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="afa06f539a4026c10b247386312aa67404b80a16"/>
+    <item
+        dex="C:\testeSVN\eiGoverno\Implementação\eiGoverno\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-c73a00f54f71764bf2d006f4e17b32d120dba68c.jar"
+        jar="C:\testeSVN\eiGoverno\Implementação\eiGoverno\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\libs\internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f"/>
+    <item
+        dex="C:\testeSVN\eiGoverno\Implementação\eiGoverno\app\build\intermediates\pre-dexed\debug\classes-fda20ac8c83ea2ccfdfc09ebe430ab7cd79f170a.jar"
+        jar="C:\testeSVN\eiGoverno\Implementação\eiGoverno\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3"/>
+    <item
+        dex="C:\testeSVN\eiGoverno\Implementação\eiGoverno\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-a64eb20406229e50197d8fa780b5ffc2cd46cdf3.jar"
+        jar="C:\Users\Argonauta\AppData\Local\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.2\support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6"/>
+
+</pre-dex-items>

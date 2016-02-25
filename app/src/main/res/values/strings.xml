@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">eiGoverno</string>
+    <string name="splash_screen">eiGoverno</string>
+
+    <string name="menu_marker">Menu de marcações</string>
+    <string name="normal">Normal</string>
+    <string name="hybrid">Híbrido</string>
+    <string name="satellite">Satélite</string>
+    <string name="terrain">Terreno</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="drawer_open">Slider Menu Opened</string>
+    <string name="drawer_close">Slider Menu Closed</string>
+
+    <string name="campo_nome">Nome: </string>
+    <string name="campo_email">Email: </string>
+    <string name="campo_senha">Senha: </string>
+    <string name="campo_confirmSenha">Confirme a senha: </string>
+    <string name="btn_salvar">Salvar </string>
+    <string name="btn_login">Login </string>
+    <string name="texto_cadastre_se">Não cadastrado? Faça sua inscrição.</string>
+
+    <string name="webServiceForaDoAr">WebService está fora do ar, entre em contato com nosso suporte.</string>
+    <string name="btnConfigText">Configurações</string>
+    <string name="btnNaoText">voltar</string>
+    <string name="faltaConexao">Necessário se conectar a internet para continuar!</string>
+
+    <!-- Nav Drawer Menu Items -->
+    <string-array name="nav_drawer_items">
+        <item >Mapa</item>
+        <item >Marcações</item>
+        <item >Entrar</item>
+        <item >Cadastre-se</item>
+        <item >Sobre</item>
+        <item >Sair</item>
+    </string-array>
+
+    <string-array name="menu_marker_items">
+        <item >Energia</item>
+        <item >Buraco</item>
+        <item >Saneamento</item>
+        <item >Lixo</item>
+    </string-array>
+    <!-- Nav Drawer List Item Icons -->
+    <!-- Keep them in order as the titles are in -->
+    <array name="nav_drawer_icons">
+        <item>@drawable/icon_map</item>
+        <item>@drawable/icon_marker</item>
+        <item>@drawable/icon_login</item>
+        <item>@drawable/icon_register</item>
+        <item>@drawable/icon_about</item>
+        <item>@drawable/icon_logout</item>
+    </array>
+     
+    <!-- Content Description -->
+    <string name="desc_list_item_icon">Item Icon</string>
+</resources>

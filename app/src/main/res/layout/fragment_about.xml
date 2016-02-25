@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+	android:background="@color/list_background_pressed"
+    android:gravity="center_vertical|bottom|left|right|top">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:id="@+id/aboutLogo"
+        android:src="@drawable/about_logo"
+        android:layout_marginTop="40dp"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:id="@+id/txtLabel1"
+        android:textColor="#fff"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="18dp"
+        android:textAlignment="center"
+        android:text="O aplicativo eiGoverno é um sistema que busca auxiliar órgãos públicos responsáveis pelo gerenciamento e manutenção de estradas e rodovias, iluminação pública e saneamento básico."
+        android:layout_marginTop="130dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"/>
+
+    <TextView
+        android:id="@+id/txtLabel2"
+        android:textColor="#fff"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="18dp"
+        android:textAlignment="center"
+        android:text="Através de uma interface amigável, são apresentadas funcionalidades onde as pessoas possam cadastrar marcações no mapa para indicar um problema específico naquela região. A aplicação visa uma parceria da população com os órgãos públicos a fim de agilizar a resolução de problemas. "
+        android:layout_marginTop="265dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"/>
+
+
+</RelativeLayout>
+
